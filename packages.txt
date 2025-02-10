@@ -1,2 +1,4 @@
 pkg-config
 libcairo2-dev
+gobject-introspection
+libgirepository1.0-dev
